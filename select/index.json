@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "泡沫の夜",
+  "base_artist": "nqrse",
+  "createdAt": "2026-02-26T07:27:11.390772Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泡沫の夜",
+      "artist": "nqrse",
+      "has_synced": false,
+      "path": "select/pl_01_泡沫の夜_nqrse.txt"
+    }
+  ]
+}
